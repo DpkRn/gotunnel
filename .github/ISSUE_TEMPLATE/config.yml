@@ -1,0 +1,8 @@
+blank: false
+contact_links:
+  - name: GitHub Discussions
+    url: https://github.com/dpkrn/gotunnel/discussions
+    about: Join our community discussions for questions and ideas
+  - name: Security Issues
+    url: https://github.com/dpkrn/gotunnel/security/advisories
+    about: Report security vulnerabilities privately
