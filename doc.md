@@ -12,6 +12,8 @@ Build, release, and maintenance commands for the `gotunnel` / `mytunnel` project
 - [Git](#git)
 - [Install Script](#install-script)
 - [Debugging](#debugging)
+- [Success output](#success-output)
+- [Issues](#issues)
 
 ---
 
@@ -215,3 +217,12 @@ go mod tidy        # sync go.sum with actual imports
 go mod verify      # verify cached modules match checksums
 go build ./...     # confirm everything compiles
 ```
+
+```text
+  💬  Report any issue: https://github.com/dpkrn/gotunnel/issues
+      We will be happy to resolve it.
+```
+
+## Issues
+
+If you find a bug or want to request a feature, open an issue on GitHub: [https://github.com/dpkrn/gotunnel/issues](https://github.com/dpkrn/gotunnel/issues).

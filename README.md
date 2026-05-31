@@ -345,6 +345,9 @@ $ mytunnel http 3000
   ║  ⚡  Forwarding requests...                       ║
   ║  🛑  Press Ctrl+C to stop                        ║
   ╚══════════════════════════════════════════════════╝
+
+  💬  Report any issue: https://github.com/dpkrn/gotunnel/issues
+      We will be happy to resolve it.
 ```
 
 Press `Ctrl+C` to stop the tunnel.
@@ -370,6 +373,12 @@ Press `Ctrl+C` to stop the tunnel.
 
 - Go 1.25+
 - A running gotunnel server (the client dials **`clickly.cv`** by default; change `defaultControlAddr` in `pkg/tunnel/client.go` for your own server)
+
+---
+
+## Issues
+
+If you find a bug or want to request a feature, open an issue on GitHub: [https://github.com/dpkrn/gotunnel/issues](https://github.com/dpkrn/gotunnel/issues).
 
 ---
 

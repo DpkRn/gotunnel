@@ -1,4 +1,6 @@
 // Standalone inspector: run separately, then point gotunnel (or nodetunnel) at ws://host:port/ingest.
+//
+// Issues: https://github.com/dpkrn/gotunnel/issues
 package main
 
 import (

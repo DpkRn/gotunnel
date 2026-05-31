@@ -111,3 +111,7 @@ stateDiagram-v2
   Running --> Stopped: stop()
   Stopped --> [*]: Shutdown inspector HTTP, unsub WebSocket, close Yamux/TCP
 ```
+
+## Issues
+
+If you find a bug or want to request a feature, open an issue on GitHub: [https://github.com/dpkrn/gotunnel/issues](https://github.com/dpkrn/gotunnel/issues).

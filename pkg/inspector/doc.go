@@ -45,4 +45,8 @@
 // exchange in the log and notifies /ws viewers; omit or 0 = proxy only, no history entry. Static
 // assets: /inspector.css, /theme-*.css, /index.js.
 //
+// # Issues
+//
+// Report bugs and feature requests: https://github.com/dpkrn/gotunnel/issues
+//
 package inspector

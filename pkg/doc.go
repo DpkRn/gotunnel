@@ -217,4 +217,8 @@
 //   - Verify the correct port is passed to StartTunnel.
 //   - Check tunnel server connectivity if no public URL is returned.
 //   - If requests fail, confirm your local handler responds correctly.
+//
+// # Issues
+//
+// Report bugs and feature requests: https://github.com/dpkrn/gotunnel/issues
 package pkg

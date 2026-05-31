@@ -313,3 +313,7 @@ A platform for:
 ## 📣 Contributing
 
 Contributions are welcome.
+
+## Issues
+
+If you find a bug or want to request a feature, open an issue on GitHub: [https://github.com/dpkrn/gotunnel/issues](https://github.com/dpkrn/gotunnel/issues).

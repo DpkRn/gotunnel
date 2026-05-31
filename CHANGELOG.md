@@ -225,3 +225,7 @@ Each version section lists commits between consecutive git tags (newest releases
 After tagging a release, move items from **[Unreleased]** into a new `## [vX.Y.Z]` section and append new rows to the **Complete commit log** table (or sync with `git log`).
 
 Release tags follow the `v*` pattern (for example `v1.0.10`). There is also a legacy tag `gotunnel` on an older commit.
+
+## Issues
+
+Report bugs and feature requests on GitHub: [https://github.com/dpkrn/gotunnel/issues](https://github.com/dpkrn/gotunnel/issues).

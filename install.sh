@@ -7,6 +7,8 @@ set -euo pipefail
 # Optional:
 #   MYTUNNEL_VERSION=v1.0.6  — pin curl downloads and go install to that tag
 #   MYTUNNEL_USE_GO=1        — install with go install instead of curl
+#
+# Issues: https://github.com/dpkrn/gotunnel/issues
 
 echo "Installing mytunnel..."
 

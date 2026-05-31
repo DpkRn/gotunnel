@@ -228,4 +228,7 @@ func printSuccess(publicURL string, localURL string, inspectorIngestURL string) 
 	fmt.Println("  ║  🛑  Press Ctrl+C to stop                        ║")
 	fmt.Println("  ╚══════════════════════════════════════════════════╝")
 	fmt.Println()
+	fmt.Println("  💬  Report any issue: https://github.com/dpkrn/gotunnel/issues")
+	fmt.Println("      We will be happy to resolve it.")
+	fmt.Println()
 }

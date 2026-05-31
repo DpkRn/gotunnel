@@ -6,6 +6,8 @@
 #   make pkg v1.0.2          # same (second word becomes the version; "v" optional)
 #
 # Commit and push your branch to origin before tagging.
+#
+# Issues: https://github.com/dpkrn/gotunnel/issues
 
 MODULE := github.com/dpkrn/gotunnel
 
