@@ -1,7 +1,7 @@
 # GoTunnel
 
 github.com/dpkrn/gotunnel 
-go get github.com/dpkrn/gotunnel
+
 
 GoTunnel is package tunnel exposes a local HTTP server on a public URL by establishing
 a persistent outbound TCP connection to a gotunnel server.
